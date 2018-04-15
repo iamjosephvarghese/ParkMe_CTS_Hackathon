@@ -1,0 +1,82 @@
+{
+  "id": "78e97265-238c-4e01-84c2-c606d900b0f2",
+  "name": "parkme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "parking_location",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "entrance_number",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8814062f-3dab-4e94-b58e-379545edfc2b",
+          "required": true,
+          "dataType": "@parking_location",
+          "name": "parking_location",
+          "value": "$parking_location",
+          "prompts": [
+            {
+              "lang": "hi",
+              "value": "स्थान निर्दिष्ट करें"
+            },
+            {
+              "lang": "en",
+              "value": "Where do you want to park at?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "7c8a8bb1-27e9-4e93-86b6-88b97c17afbf",
+          "required": true,
+          "dataType": "@entrance_number",
+          "name": "entrance_number",
+          "value": "$entrance_number",
+          "prompts": [
+            {
+              "lang": "hi",
+              "value": "प्रवेश द्वार निर्दिष्ट करें"
+            },
+            {
+              "lang": "en",
+              "value": "Please specify the entrance number"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "तुम्हारे लिए एक पार्किंग स्थल मिल रहा है .."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There\u0027s a spot, five blocks forward, three cars to your right"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523448155,
+  "fallbackIntent": false,
+  "events": []
+}

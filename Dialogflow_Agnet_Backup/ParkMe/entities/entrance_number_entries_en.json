@@ -1,0 +1,35 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "Entrance 1",
+      "Entrance one",
+      "Gate 1",
+      "Gate one",
+      "Block 1",
+      "Block one"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "Gate two",
+      "Entrance 2",
+      "Entrance two",
+      "Gate 2",
+      "Block 2",
+      "Block two"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "Entrance 3",
+      "Entrance three",
+      "Gate 3",
+      "Gate thee",
+      "Block 3",
+      "Block three"
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "7b2d4571-c356-4dcd-907c-94e6a827120d",
+    "data": [
+      {
+        "text": "vacant parking spots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523448155
+  },
+  {
+    "id": "2a76197f-70d4-4e9e-add6-80a610f5bce8",
+    "data": [
+      {
+        "text": "Are there vacant parking spots at ",
+        "userDefined": false
+      },
+      {
+        "text": "Lulu",
+        "alias": "parking_location",
+        "meta": "@parking_location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523448155
+  },
+  {
+    "id": "4ba3a0ec-eabf-4962-9670-239b8bda5e00",
+    "data": [
+      {
+        "text": "Find a parking spot at ",
+        "userDefined": false
+      },
+      {
+        "text": "Lulu",
+        "alias": "parking_location",
+        "meta": "@parking_location",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Gate 1",
+        "alias": "entrance_number",
+        "meta": "@entrance_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523448155
+  },
+  {
+    "id": "e1427292-5b00-4bde-902e-75eaf5bebabe",
+    "data": [
+      {
+        "text": "parking spots nearby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523448155
+  },
+  {
+    "id": "d1d7cc79-aae9-4c5f-8e55-d0a2dae09978",
+    "data": [
+      {
+        "text": "find a parking spot for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523448155
+  },
+  {
+    "id": "cf4e14ec-8b3a-4842-b851-4ca239ee25f4",
+    "data": [
+      {
+        "text": "get me a parking spot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523448155
+  },
+  {
+    "id": "0b2ec0c6-8e3a-4605-9fe0-ee18a2392290",
+    "data": [
+      {
+        "text": "park me here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523448155
+  },
+  {
+    "id": "5cbc59f0-41ee-4c66-9ac7-1884f48318c2",
+    "data": [
+      {
+        "text": "parkme here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523448155
+  }
+]

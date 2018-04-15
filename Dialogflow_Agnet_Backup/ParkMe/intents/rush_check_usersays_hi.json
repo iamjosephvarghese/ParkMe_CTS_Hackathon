@@ -1,0 +1,62 @@
+[
+  {
+    "id": "758a9173-a25e-446a-ae3c-d04250e42b26",
+    "data": [
+      {
+        "text": "लुलु",
+        "alias": "parking_location",
+        "meta": "@parking_location",
+        "userDefined": false
+      },
+      {
+        "text": " में पार्किंग की स्थिति कैसी है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea0677aa-2182-45c2-aa1a-84948c693691",
+    "data": [
+      {
+        "text": "पार्किंग स्टेटस",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5fef5ee-04bb-4b72-ab79-e9c4eb932cd8",
+    "data": [
+      {
+        "text": "क्या मुझे ",
+        "userDefined": false
+      },
+      {
+        "text": "लुलु",
+        "alias": "parking_location",
+        "meta": "@parking_location",
+        "userDefined": false
+      },
+      {
+        "text": " जाना चाहिए",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1db4050d-8770-4ace-8ca6-b5071ea6a7ff",
+    "data": [
+      {
+        "text": "पार्किंग की जानकारी",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

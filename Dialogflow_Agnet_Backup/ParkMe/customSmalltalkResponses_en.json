@@ -1,0 +1,8 @@
+[
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "See ya!"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "911681e2-ad6f-488f-8910-a2941e9c0488",
+  "name": "rush_check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "rush_check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2a3f1b75-3c19-4fb4-8380-396da29f456c",
+          "required": true,
+          "dataType": "@parking_location",
+          "name": "parking_location",
+          "value": "$parking_location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the location?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It\u0027\u0027s not a good time to go now, occupancy is at 92%",
+            "If you leave in two hours, you are more likely to get vacant spots",
+            "It\u0027s a great time to shop! Vacant spots everywhere"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": [
+            "यह जाने का एक अच्छा समय नहीं है",
+            "रिक्त स्थान हैं"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1523764781,
+  "fallbackIntent": false,
+  "events": []
+}

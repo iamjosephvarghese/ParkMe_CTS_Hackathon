@@ -1,0 +1,103 @@
+[
+  {
+    "id": "424dab92-62bb-409b-95f4-79bf8b5ddb27",
+    "data": [
+      {
+        "text": "पार्कमी हियर",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4861ebb-d511-475a-a63c-3910222fc962",
+    "data": [
+      {
+        "text": "पार्क मी हियर",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e890e0b3-cebf-40f8-9d8b-7021b86ee9a2",
+    "data": [
+      {
+        "text": "पास में कोई पार्किंग स्पॉट है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb7e4a9f-12e9-4a15-bc18-3eca28a43fe4",
+    "data": [
+      {
+        "text": "लुलु",
+        "alias": "parking_location",
+        "meta": "@parking_location",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "गेट 1",
+        "alias": "entrance_number",
+        "meta": "@entrance_number",
+        "userDefined": false
+      },
+      {
+        "text": " पर ",
+        "userDefined": false
+      },
+      {
+        "text": "एक",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " पार्किंग स्थल ढूंढिए",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e1132bf-493b-4e28-84e1-dfcd961ddc9d",
+    "data": [
+      {
+        "text": "खाली पार्किंग स्पॉट",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "063a9c5e-ee9e-47b9-9732-4a939275db32",
+    "data": [
+      {
+        "text": "क्या ",
+        "userDefined": false
+      },
+      {
+        "text": "लुलु",
+        "alias": "parking_location",
+        "meta": "@parking_location",
+        "userDefined": false
+      },
+      {
+        "text": " में खाली पार्किंग स्पॉट हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "6cb0b083-2380-40af-a763-ca2eef95c814",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "पार्कमी में आपका स्वागत है! निकटतम रिक्त पार्किंग स्थल पर जानकारी प्राप्त करने के लिए आप \"पार्कमी हियर\" कह सकते हैं"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome to ParkMe! You can say \"ParkMe here\" to get information on the closest vacant parking spot"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523383990,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
